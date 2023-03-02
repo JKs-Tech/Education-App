@@ -1,4 +1,4 @@
-# all_widgets
+# Programming Education App
 
 A new Flutter project.
 
